@@ -23,7 +23,7 @@ var member=[
 {"phone":"0222","name":"普苑玲"},
 {"phone":"0223","name":"史雯林"},
 {"phone":"0224","name":"苏婧灵"},
-{"phone":"0225","name":"苏仁李"},
+{"phone":"0225","name":"罗钦洲"},
 {"phone":"0226","name":"苏沄铠"},
 {"phone":"0227","name":"孙若琪"},
 {"phone":"0228","name":"唐浩博"},
